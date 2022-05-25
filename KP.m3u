@@ -1,0 +1,6 @@
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" status="online",Korean Central Television (KCTV) (MPD)
+https://tv.nknews.org/tvdash/stream.mpd
+#EXTINF:-1 tvg-id="" status="Korean Central Television (KCTV) (810p) [M3U8]
+https://tv.nknews.org/tvhls/stream.m3u8
